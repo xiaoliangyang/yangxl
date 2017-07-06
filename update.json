@@ -1,5 +1,5 @@
 {
 	 "updateStatus":"yes",
-	 "updatePart":"filesystem",
+	 "updatePart":"kernel",
 	 "updateVersion":"0.3.0",
 }
