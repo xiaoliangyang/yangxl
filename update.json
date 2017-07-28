@@ -1,5 +1,5 @@
 {
 	 "updateStatus":"yes",
-	 "updatePart":"u-boot",
+	 "updatePart":"kernel",
 	 "updateVersion":"0.3.0",
 }
